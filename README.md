@@ -4,3 +4,4 @@ WHAT I MADE TILL NOW --
 1) Calculator
 2) Digital Clock
 3) Number Guessing Game
+4) OTP Generator
