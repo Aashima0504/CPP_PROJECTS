@@ -5,3 +5,4 @@ WHAT I MADE TILL NOW --
 2) Digital Clock
 3) Number Guessing Game
 4) OTP Generator
+5) Password Generator
