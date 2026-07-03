@@ -6,3 +6,5 @@ WHAT I MADE TILL NOW --
 3) Number Guessing Game
 4) OTP Generator
 5) Password Generator
+6) Password Strength Checker
+   
