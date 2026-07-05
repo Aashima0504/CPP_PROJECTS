@@ -7,4 +7,5 @@ WHAT I MADE TILL NOW --
 4) OTP Generator
 5) Password Generator
 6) Password Strength Checker
+7) Student Grading System
    
