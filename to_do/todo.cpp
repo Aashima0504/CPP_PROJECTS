@@ -6,7 +6,6 @@
 
 using namespace std;
 
-// Encryption and Decryption
 string encryption(string password, int key, int digit = 0) {
     string encryptData = "";
     if(digit == 0)
